@@ -1,0 +1,8 @@
+.imagem{
+    width: 350px;
+    height: 500px!important;
+}
+.todasimagens{ 
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
